@@ -1,0 +1,29 @@
+---
+---
+@import "{{ site.theme }}";
+
+.post-preview {
+  padding-bottom: 30px;
+}
+
+.black-bold {
+  font-weight: bolder;
+  color: rgb(48, 48, 48);
+}
+
+a.black-bold:hover, a:hover .black-bold {
+  font-weight: bolder;
+  color: rgb(80, 80, 80);
+}
+
+.post-read-more {
+  font-weight: bold;
+}
+
+.pager li {
+  list-style: none;
+}
+
+a:active, a:focus {
+    outline: none;
+}

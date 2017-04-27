@@ -2,9 +2,9 @@ theme: jekyll-theme-tactile
 
 show_downloads: false
 
-title: "JacarriChan's Love Diary~~~~"
+title: "Love Diary~~~~"
 description: >
-   Love Diary~~~~.
+   JacarriChan's Love Diary~~~~.
 
 permalink: /:year-:title/
 paginate: 5
